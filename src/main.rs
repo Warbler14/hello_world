@@ -19,3 +19,6 @@ fn main() {
 // If you prefer Atom to automatically jump to the first error it encounters, you can change this setting in the build package's settings by activating the checkbox for "Automatically scroll on build error"
 // If you want inline popups for errors and warnings, install the linter package.
 // If someone figures out debugging with Atom, that would be a tremendous help.
+
+
+//rustc main.rs
